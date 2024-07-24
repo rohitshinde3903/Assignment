@@ -3,7 +3,7 @@ import time
 import sqlite3
 from datetime import datetime
 
-API_KEY = 'ab9b3b194417f47d190230e94730638b'
+API_KEY = 'use_your_own_api_key'
 LOCATION = 'Pune'
 
 def fetch_weather_data(API_KEY, LOCATION):

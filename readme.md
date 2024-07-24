@@ -17,7 +17,14 @@ This project collects weather data from the OpenWeatherMap API, stores it in a S
   - `matplotlib`
   - `seaborn`
 
+### Setup
+  1. Store all the files in single folder.
+  2. Run the main.py
+  3. Then analyze_data.py to analyze the data you fetched
+  4. next you will be able visualize the data only if you have ran the analyze_data.py
+
 ### Created by Rohit Shinde (rohitshinde3903@gmail.com) with some help of ChatGpt
+
 
 
 
